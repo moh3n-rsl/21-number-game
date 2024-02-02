@@ -1,4 +1,4 @@
-# 21_number_game
+# 21 Number game
 
 <span style="font-weight: 400;">Alternatively known as Game 21, Twenty plus One, and Bagram, it’s a game generally played between two players (though you can include more) which advances by checking up 1 to 21, with the player who calls "21" is disposed of.</span>
 
